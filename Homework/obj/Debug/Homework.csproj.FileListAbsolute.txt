@@ -4,3 +4,9 @@ C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework\Homework\bin\Debug\Homewo
 C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
 C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework\Homework\obj\Debug\Homework.exe
 C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\bin\Debug\Homework.exe.config
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\bin\Debug\Homework.exe
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\bin\Debug\Homework.pdb
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\obj\Debug\Homework.exe
+C:\Users\Dilan Patel\Engineering45\Week2\Day1\Homework1\Homework\obj\Debug\Homework.pdb

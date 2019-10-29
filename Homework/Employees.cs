@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 
-namespace Classes
+namespace Work
 {
     class Employee
     {
@@ -25,31 +25,5 @@ namespace Classes
     class Accountant : Employee
     {
         public string accountingQualification;
-    }
-}
-
-namespace Work
-{
-    using Classes;
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Developer John = new Developer();
-            John.firstName = "John";
-            John.lastName = "Smith";
-            John.isPermenant = false;
-            John.department = "IT";
-            John.noOfLanguages = 6;
-            John.stack = "Full Stack";
-            John.agileExperience = true;
-
-            Accountant Matt = new Accountant();
-            Matt.firstName = "Matt";
-            Matt.lastName = "Jackson";
-            Matt.isPermenant = true;
-            Matt.department = "Accounting";
-            Matt.accountingQualification = "ACCA";
-        }
     }
 }
